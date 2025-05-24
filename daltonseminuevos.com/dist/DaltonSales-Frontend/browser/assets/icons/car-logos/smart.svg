@@ -1,0 +1,106 @@
+<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g clip-path="url(#clip0_3462_6482)">
+<rect x="3.1377" y="20.4946" width="1.35304" height="1.31949" fill="url(#pattern0)"/>
+<rect x="2.28101" y="19.5767" width="0.155751" height="0.170921" fill="url(#pattern1)"/>
+<rect x="0.199951" y="14.9878" width="0.125399" height="0.170922" fill="url(#pattern2)"/>
+<rect x="1.30176" y="17.6191" width="0.373801" height="0.648567" fill="url(#pattern3)"/>
+<rect x="0.261963" y="15.0498" width="0.189297" height="0.140573" fill="url(#pattern4)"/>
+<rect x="0.078125" y="14.3149" width="0.373802" height="0.954471" fill="url(#pattern5)"/>
+<rect x="-0.0432129" y="13.5806" width="0.186901" height="0.202082" fill="url(#pattern6)"/>
+<rect x="16.5371" y="7.76807" width="0.189297" height="0.170929" fill="url(#pattern7)"/>
+<rect x="16.4766" y="7.40088" width="0.189289" height="0.140574" fill="url(#pattern8)"/>
+<rect x="0.873779" y="9.90967" width="0.189297" height="0.110222" fill="url(#pattern9)"/>
+<rect x="0.506348" y="14.9263" width="0.311502" height="0.52716" fill="url(#pattern10)"/>
+<rect x="11.8262" y="1.46582" width="0.125401" height="0.140576" fill="url(#pattern11)"/>
+<rect x="16.0483" y="23.0645" width="0.189299" height="0.140572" fill="url(#pattern12)"/>
+<rect x="16.0483" y="23.0645" width="0.189299" height="0.11022" fill="url(#pattern13)"/>
+<rect x="24.9197" y="12.4185" width="0.189301" height="0.110228" fill="url(#pattern14)"/>
+<rect x="17.3318" y="22.6362" width="0.189293" height="0.11022" fill="url(#pattern15)"/>
+<rect x="17.7002" y="20.189" width="0.125401" height="0.202072" fill="url(#pattern16)"/>
+<rect x="17.5151" y="17.0679" width="0.250793" height="3.33546" fill="url(#pattern17)"/>
+<path d="M17.668 3.05527C17.9875 6.92908 17.9204 20.243 17.6808 21.9315C17.6632 22.0577 17.6616 22.2781 17.7942 22.1711C20.8604 19.5963 23.2405 16.3015 24.7215 12.5816C23.2327 8.84361 20.946 5.74297 18.021 3.18866C17.8509 3.0401 17.7503 2.95703 17.7015 2.95703C17.6728 2.95703 17.6616 2.98738 17.668 3.05288" fill="url(#paint0_linear_3462_6482)"/>
+<path d="M0.334717 12.528C0.334717 18.8331 5.4721 23.9442 11.7453 23.9442C13.253 23.9462 14.7461 23.6492 16.1382 23.0704C16.4833 22.9234 16.4625 22.6878 16.4681 22.5863C16.4681 22.5863 16.4681 17.6239 16.4681 17.5688C16.4681 17.322 16.2724 17.4282 16.1734 17.4809C13.8499 18.7269 11.7413 18.6478 11.7413 18.6478C8.27481 18.6478 5.62066 15.8108 5.62066 12.5304C5.62087 10.903 6.26701 9.34223 7.41717 8.19087C8.56732 7.03952 10.1274 6.39176 11.7548 6.38985C13.5703 6.38985 14.9929 6.95694 16.2037 7.57036C16.3116 7.62467 16.4633 7.61349 16.4705 7.45295V2.65103C16.4705 2.65103 16.4929 2.11429 16.0424 1.93618C14.308 1.23699 12.4287 0.973894 10.569 1.16994C8.70932 1.36599 6.92613 2.0152 5.3757 3.06067C3.82528 4.10613 2.55497 5.51594 1.6761 7.16652C0.797233 8.8171 0.336649 10.6581 0.334717 12.528Z" fill="url(#paint1_linear_3462_6482)"/>
+</g>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_3462_6482" transform="scale(0.125)"/>
+</pattern>
+<pattern id="pattern1" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_3462_6482"/>
+</pattern>
+<pattern id="pattern2" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_3462_6482"/>
+</pattern>
+<pattern id="pattern3" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image2_3462_6482"/>
+</pattern>
+<pattern id="pattern4" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image3_3462_6482"/>
+</pattern>
+<pattern id="pattern5" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4_3462_6482"/>
+</pattern>
+<pattern id="pattern6" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_3462_6482"/>
+</pattern>
+<pattern id="pattern7" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image3_3462_6482"/>
+</pattern>
+<pattern id="pattern8" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image3_3462_6482"/>
+</pattern>
+<pattern id="pattern9" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image3_3462_6482"/>
+</pattern>
+<pattern id="pattern10" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image5_3462_6482"/>
+</pattern>
+<pattern id="pattern11" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_3462_6482"/>
+</pattern>
+<pattern id="pattern12" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image3_3462_6482"/>
+</pattern>
+<pattern id="pattern13" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image3_3462_6482"/>
+</pattern>
+<pattern id="pattern14" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image3_3462_6482"/>
+</pattern>
+<pattern id="pattern15" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image3_3462_6482"/>
+</pattern>
+<pattern id="pattern16" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_3462_6482"/>
+</pattern>
+<pattern id="pattern17" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image6_3462_6482" transform="scale(0.333333 0.0357143)"/>
+</pattern>
+<linearGradient id="paint0_linear_3462_6482" x1="17.6664" y1="12.58" x2="24.7215" y2="12.58" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F6D554"/>
+<stop offset="0.07" stop-color="#F6D554"/>
+<stop offset="0.16" stop-color="#F1CC3E"/>
+<stop offset="0.3" stop-color="#E9BF1C"/>
+<stop offset="0.4" stop-color="#DCB021"/>
+<stop offset="0.53" stop-color="#D3A625"/>
+<stop offset="0.69" stop-color="#D0A326"/>
+<stop offset="0.94" stop-color="#EEC819"/>
+<stop offset="0.97" stop-color="#F1CC18"/>
+<stop offset="1" stop-color="#F1CC18"/>
+</linearGradient>
+<linearGradient id="paint1_linear_3462_6482" x1="8.40261" y1="1.1071" x2="8.40261" y2="23.9442" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#5C5C5C"/>
+</linearGradient>
+<clipPath id="clip0_3462_6482">
+<rect width="25" height="25" fill="white"/>
+</clipPath>
+<image id="image0_3462_6482" width="8" height="8" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAACXBIWXMAAASdAAAEnQF8NGuhAAAAFUlEQVQIW2P8//8/AzbAhFV00EoAAFbUAw2gbPDPAAAAAElFTkSuQmCC"/>
+<image id="image1_3462_6482" xlink:href="data:image/png;base64,iVBORw0KGgoAAAAN"/>
+<image id="image2_3462_6482" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAF"/>
+<image id="image3_3462_6482" xlink:href="data:image/png;base64,iVBORw0K"/>
+<image id="image4_3462_6482" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAGCAIAAACJ"/>
+<image id="image5_3462_6482" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA"/>
+<image id="image6_3462_6482" width="3" height="28" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAcCAIAAAArypKmAAAACXBIWXMAAAcTAAAHEwHOIA8IAAAASElEQVQYV2P8//8/AwMDAwMD08d7nR/vdTIwMDAxwAALAwMjVBYu"/>
+</defs>
+</svg>

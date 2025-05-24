@@ -1,0 +1,12 @@
+User-agent: Twitterbot
+User-agent: *
+Disallow: https://www.daltonseminuevos.com/*
+Allow: https://www.daltonseminuevos.com.mx
+Disallow: /quiero-vender-mi-carro/offer
+Disallow: /quiero-vender-mi-carro/expediente-validation
+User-agent: Googlebot
+Disallow: *?*
+Disallow: */page/*
+User-agent: Googlebot-image
+Disallow: *?*
+Disallow: */page/*
